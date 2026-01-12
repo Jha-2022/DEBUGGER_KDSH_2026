@@ -1,0 +1,5 @@
+pathway[all]
+sentence-transformers
+openai
+pandas
+numpy
