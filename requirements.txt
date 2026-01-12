@@ -1,5 +1,5 @@
-pathway[all]
-sentence-transformers
-openai
+pathway>=0.13
 pandas
 numpy
+scikit-learn
+tqdm
